@@ -1,2 +1,2 @@
-# harini-arya.github.io
+harini-arya.github.io
 My portfolio
